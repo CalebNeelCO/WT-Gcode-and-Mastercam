@@ -1,4 +1,4 @@
-O2202 (License Plate Pocket CMN)
+%O2202 (License Plate Pocket CMN)
 
 T3 M06; (DRILL)
 G90 G154 P22 G00 X3.25 Y.6.25 S1000; (Corect Speed)
@@ -18,3 +18,4 @@ G40 X3.25 Y.6.25;
 ;
 G53 G49 Y0 X0;
 M30;
+%
