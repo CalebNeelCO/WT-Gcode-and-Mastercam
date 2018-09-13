@@ -1,8 +1,9 @@
 # WT-Gcode
 [Verify G-Code](https://nraynaud.github.io/webgcode/)<br />
 [G-Code Refrance](http://www.helmancnc.com/)<br />
-[Cutter Comp](http://www.cnctrainingcentre.com/video-tutorials/cutter-compensation/
-# License Plate Frame)<br />
+[Cutter Comp](http://www.cnctrainingcentre.com/video-tutorials/cutter-compensation/)<br />
+
+# License Plate Frame
 
 02200 - Drill Cycle <br />
 02201 - Countour <br />
