@@ -2,7 +2,7 @@
 (License Plate Contour CMN)
 T1 M06; (ENDMILL)
 G90 G154 P22 X0.0 Y-3.0;
-S4584 M03; 
+S1146 M03; 
 G43 H01 Z-0.25; (FEED DOWN)
 MO8;
 ;
