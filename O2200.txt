@@ -6,7 +6,8 @@ G43 H02 Z5 M08;
 G82 Z-0.125 R0.1 P1 F10;(Spot Drill Canned Cycle Get Coreect speed!!)
 X9.750 Y0.906;
 X9.750 Y5.594;
-x2.750 Y5.594
+X2.750 Y5.594;
+X6.25 Y3.5;
 G80 G00 Z1. M09;
 M05; (End Spot Drill Canned Cycle)
 ;
@@ -18,6 +19,7 @@ G83 Z-1.5 Q.5 R.1 F10. (Correct Depth Z, Feed rate)
 X9.750 Y0.906;
 X9.750 Y5.594;
 X2.750 Y5.594;
+X6.25 Y3.5;
 G80 G00 Z1. M09;
 M05;
 
