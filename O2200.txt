@@ -27,7 +27,7 @@ G80
 M09;
 M05;
 G91 G28 G00 Z0.;
-M01;
+M00;
 
 T5 M06; (Drill)
 G90 G154 P22 G00 X6.25 Y3.5; (Offset)
