@@ -1,7 +1,7 @@
-%O2200 (Drill License Plate Holes CMN)
+%O02200 (Drill License Plate Holes CMN)
 T2 M06; (Spot Drill)
 G90 G154 P22 G00 X2.750 Y0.906; 
-S1000 M03; (get Correct Speed!!!)
+S6000 M03; (get Correct Speed!!!)
 G43 H02 Z5. M08;
 G82 Z-0.125 R0.1 P1 F10.;(Spot Drill Canned Cycle Get Coreect speed!!)
 X9.750 Y0.906;
