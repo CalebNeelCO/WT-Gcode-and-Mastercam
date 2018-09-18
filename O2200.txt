@@ -12,7 +12,7 @@ G80;
 M09;
 M05; (End Spot Drill Canned Cycle)
 G91 G28 G00 Z0. (TAKE Z TO MACHINE HOME)
-M00; (STOP PROGRAM)
+M01; (STOP PROGRAM)
 T3 M06; (Drill)
 G90 G154 P22 G00 X2.750 Y0.906; (Offset)
 S1200 M03; (correct Speed!!!)
