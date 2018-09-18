@@ -11,16 +11,29 @@ X6.25 Y3.5;
 G80;
 M09;
 M05; (End Spot Drill Canned Cycle)
+
 G91 G28 G00 Z0. (TAKE Z TO MACHINE HOME)
 M01; (STOP PROGRAM)
+
 T3 M06; (Drill)
 G90 G154 P22 G00 X2.750 Y0.906; (Offset)
 S1200 M03; (correct Speed!!!)
 G43 H03 Z1. M08;
-G83 Z-1.5 Q.5 R.1 F10. (Correct Depth Z, Feed rate);
+G83 Z-0.5 R.1 F10. (Correct Depth Z, Feed rate);
 X9.750 Y0.906;
 X9.750 Y5.594;
 X2.750 Y5.594;
+G80
+M09;
+M05;
+G91 G28 G00 Z0.;
+M01;
+
+T5 M06; (Drill)
+G90 G154 P22 G00 X2.750 Y0.906; (Offset)
+S1200 M05; (correct Speed!!!)
+G43 H05 Z1. M08;
+G83 Z-0.5 R.1 F10. (Correct Depth Z, Feed rate);
 X6.25 Y3.5;
 G80
 M09;
