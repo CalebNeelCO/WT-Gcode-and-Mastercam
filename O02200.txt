@@ -19,7 +19,7 @@ T3 M06; (Drill)
 G90 G154 P22 G00 X2.750 Y0.906; (Offset)
 S5000 M03; (correct Speed!!!)
 G43 H03 Z1. M08;
-G83 Z-0.5 R.1 F10. (Correct Depth Z, Feed rate);
+G83 X2.750 Y0.906 Z-0.5 R.1 Q0.125 F10. (Correct Depth Z, Feed rate);
 X9.750 Y0.906;
 X9.750 Y5.594;
 X2.750 Y5.594;
@@ -33,7 +33,7 @@ T5 M06; (Drill)
 G90 G154 P22 G00 X6.25 Y3.5; (Offset)
 S3000 M05; (correct Speed!!!)
 G43 H05 Z1. M08;
-G83 Z-0.615 R.1 F10. (Correct Depth Z, Feed rate);
+G83 X6.25 Y3.5 Z-0.615 R.1 Q0.125 F10. (Correct Depth Z, Feed rate);
 G80;
 M09;
 M05;
