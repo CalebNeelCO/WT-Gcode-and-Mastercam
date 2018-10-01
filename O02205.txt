@@ -1,6 +1,6 @@
 
 %
-O0000
+O02205
 (CMN Balance Weight)
 (TOOL - 1 OFFSET - 1)
 (SAFE TOOL CHANGE POSITON) 
