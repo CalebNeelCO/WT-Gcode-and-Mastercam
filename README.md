@@ -1,4 +1,6 @@
 # WT-Gcode
+All the G-Code for CNC machining in the Warren Tech Precision Machining Technology Class
+
 [Verify G-Code](https://nraynaud.github.io/webgcode/)<br />
 [G-Code Refrance](http://www.helmancnc.com/)<br />
 [Cutter Comp](http://www.cnctrainingcentre.com/video-tutorials/cutter-compensation/)<br />
