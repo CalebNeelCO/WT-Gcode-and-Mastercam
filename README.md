@@ -1,5 +1,5 @@
 # WT Gcode and Mastercam
-All the G-Code for CNC machining in the Warren Tech Precision Machining Technology Class
+All the G-Code for CNC machining in the Warren Tech Precision Machining Technology Class 
 
 # License Plate Frame G-Code
 [o02200 - Drill Cycle](/O02200.txt)<br />
