@@ -20,7 +20,7 @@ All the G-Code for CNC machining in the Warren Tech Precision Machining Technolo
 ![alt text](AltMountFull.png)
 
 # Alternator Mount Mastercam
-[Mastercam File](Alternator%20Mount.emcam)<br />
+[Mastercam File](https://github.com/CalebNeelCO/WT-Gcode-and-Mastercam/blob/master/Alternator%20Mount.emcam)<br />
 ![alt text](AltMountFull.png)
 
 # Power Mount Mastercam
