@@ -1,14 +1,6 @@
 # WT-Gcode
 All the G-Code for CNC machining in the Warren Tech Precision Machining Technology Class
 
-[Verify G-Code](https://nraynaud.github.io/webgcode/)<br />
-[G-Code Refrance](http://www.helmancnc.com/)<br />
-[Cutter Comp](http://www.cnctrainingcentre.com/video-tutorials/cutter-compensation/)<br />
-[G02,G03](https://www.cnccookbook.com/cnc-g-code-arc-circle-g02-g03/)<br />
-[Speed Chart](http://www.endmill.com/pages/training/Speed%20and%20Feed%20-%20HSS%20End%20Mills.pdf)<br />
-
-
-
 # License Plate Frame G-Code
 [02200 - Drill Cycle](/O02200.txt)
  <br />
