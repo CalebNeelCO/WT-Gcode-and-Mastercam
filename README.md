@@ -23,6 +23,10 @@ All the G-Code for CNC machining in the Warren Tech Precision Machining Technolo
 [Mastercam File](https://github.com/CalebNeelCO/WT-Gcode-and-Mastercam/blob/master/Power%20Mount.emcam)<br />
 ![alt text](/Power-Mount-Print.png)
 
+# 30 Degree Clamp
+[Mastercam File](https://github.com/CalebNeelCO/WT-Gcode-and-Mastercam/blob/master/30%20Degree%20Clamp.emcam)<br />
+![alt text](/30DEG.png)
+
 
 
 
